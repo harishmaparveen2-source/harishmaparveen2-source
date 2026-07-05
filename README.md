@@ -99,11 +99,13 @@ Currently strengthening my Data Analytics and Machine Learning portfolio by buil
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=harishmaparveen2-source&show_icons=true&theme=tokyonight&hide_border=true" />
+## 📊 GitHub Stats
 
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harishmaparveen2-source&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishmaparveen2-source&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
