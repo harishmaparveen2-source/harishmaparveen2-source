@@ -87,7 +87,7 @@ I enjoy working with raw datasets, cleaning data, identifying patterns, and crea
 * Identified top customers, best-selling products, and revenue trends.
 * Created meaningful reports from raw database tables.
 
-🔗 **Project Repository:** [View Project](https://github.com/YOUR_GITHUB_USERNAME/sql-business-analysis)
+🔗 **Project Repository:** (https://github.com/harishmaparveen2-source/MySQL)
 
 ---
 
