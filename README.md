@@ -99,8 +99,6 @@ Currently strengthening my Data Analytics and Machine Learning portfolio by buil
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harishmaparveen2-source&show_icons=true&theme=tokyonight&hide_border=true" />
   <br />
