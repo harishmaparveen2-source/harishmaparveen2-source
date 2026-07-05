@@ -61,7 +61,7 @@ I enjoy working with raw datasets, cleaning data, identifying patterns, and crea
 * Created KPI cards, slicers, charts, and category-wise performance reports.
 * Identified high-performing regions, products, and customer segments.
 
-🔗 **Project Repository:** [View Project](https://github.com/harishmaparveen2-source/power-BI)
+🔗 **Project Repository:**(https://github.com/harishmaparveen2-source/power-BI)
 
 ---
 
