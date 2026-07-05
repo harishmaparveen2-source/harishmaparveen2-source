@@ -61,7 +61,7 @@ I enjoy working with raw datasets, cleaning data, identifying patterns, and crea
 * Created KPI cards, slicers, charts, and category-wise performance reports.
 * Identified high-performing regions, products, and customer segments.
 
-🔗 **Project Repository:**(https://github.com/harishmaparveen2-source/power-BI)
+🔗 **Project Repository:** (https://github.com/harishmaparveen2-source/power-BI)
 
 ---
 
@@ -74,7 +74,7 @@ I enjoy working with raw datasets, cleaning data, identifying patterns, and crea
 * Built dashboards using Excel charts and KPI metrics.
 * Generated business insights to support sales decisions.
 
-🔗 **Project Repository:** [View Project](https://github.com/YOUR_GITHUB_USERNAME/excel-sales-analysis)
+🔗 **Project Repository:** (https://github.com/harishmaparveen2-source/advanced-excel)
 
 ---
 
