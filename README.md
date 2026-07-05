@@ -1,13 +1,17 @@
 <div align="center">
 
-# Hi, I'm Harishma Parveen 👋
-
-### Aspiring Data Analyst | Business Analytics Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Harishma+Parveen+%F0%9F%91%8B;Aspiring+Data+Analyst+%7C+Business+Analytics+Enthusiast;Transforming+Data+into+Business+Insights" alt="Typing SVG" />
 
 <p>
-I am a B.Com graduate with a strong interest in Data Analytics and Business Analytics.  
-I enjoy transforming raw data into meaningful insights using Excel, SQL, Power BI, and Python.
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR-EMAIL-ID">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=6C63FF&style=flat-square" alt="Profile views" />
 
 </div>
 
@@ -15,80 +19,142 @@ I enjoy transforming raw data into meaningful insights using Excel, SQL, Power B
 
 ## 👩‍💻 About Me
 
-* 🎓 B.Com Graduate
-* 📊 Aspiring Data Analyst
-* 📈 Interested in Business Analytics, Data Visualization, and Dashboard Development
-* 🌱 Currently learning SQL, Python, Power BI, and Advanced Excel
-* 💡 I enjoy solving business problems through data-driven insights
-* 🎯 Goal: Build a career as a Data Analyst
+I am a **B.Com Graduate** and an aspiring **Data Analyst** with a strong interest in Business Analytics, Data Visualization, and solving real-world business problems using data.
+
+I enjoy working with raw datasets, cleaning data, identifying patterns, and creating interactive dashboards that help people make better decisions.
+
+* 🎓 **Education:** Bachelor of Commerce (B.Com)
+* 📊 **Career Goal:** Data Analyst / Business Analyst
+* 💡 **Interests:** Data Analysis, Dashboard Development, Business Insights & Reporting
+* 🌱 **Currently Learning:** Advanced SQL, Python for Data Analysis, Power BI, and Statistics
+* 🎯 **Focus:** Building practical, portfolio-ready analytics projects
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Technical Skills
 
-<p align="left">
+### 📊 Data Analysis & Visualization
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
 
+### 🗄️ Databases & Querying
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### 🐍 Programming & Libraries
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### 📊 Sales Dashboard
+### 📊 Sales Performance Dashboard | Power BI
 
-* Created an interactive sales dashboard using Power BI
-* Analyzed sales performance, profit, category-wise sales, and regional trends
-* Used Power Query for data cleaning and transformation
+**Tools Used:** Power BI, Power Query, Excel, DAX
 
-### 📈 Excel Data Analysis Project
+* Cleaned and transformed raw sales data using Power Query.
+* Built interactive dashboards to track Sales, Profit, Quantity, and Growth.
+* Created KPI cards, slicers, charts, and category-wise performance reports.
+* Identified high-performing regions, products, and customer segments.
 
-* Cleaned and analyzed business data using Excel
-* Created Pivot Tables, Charts, and KPI reports
-* Generated insights to support decision-making
-
-### 🗄️ SQL Data Analysis
-
-* Used SQL queries to extract, filter, and analyze data
-* Worked with `SELECT`, `WHERE`, `GROUP BY`, `JOIN`, and aggregate functions
+🔗 **Project Repository:** [View Project](https://github.com/YOUR_GITHUB_USERNAME/sales-dashboard)
 
 ---
 
-## 📚 Currently Learning
+### 📈 E-Commerce Sales Analysis | Excel
 
-* Advanced SQL
-* Python for Data Analysis
-* Data Cleaning with Pandas
-* Power BI Dashboard Development
-* Business Problem Solving
+**Tools Used:** Microsoft Excel, Pivot Tables, Charts, Data Cleaning
+
+* Analyzed e-commerce sales data to identify revenue and profit trends.
+* Created Pivot Tables and interactive reports for category and region analysis.
+* Built dashboards using Excel charts and KPI metrics.
+* Generated business insights to support sales decisions.
+
+🔗 **Project Repository:** [View Project](https://github.com/YOUR_GITHUB_USERNAME/excel-sales-analysis)
 
 ---
 
-## 📫 Connect With Me
+### 🗄️ SQL Business Insights Project | MySQL
 
-<p align="left">
+**Tools Used:** SQL, MySQL
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+* Used SQL queries to explore and analyze business datasets.
+* Worked with `SELECT`, `WHERE`, `GROUP BY`, `ORDER BY`, `JOIN`, and aggregate functions.
+* Identified top customers, best-selling products, and revenue trends.
+* Created meaningful reports from raw database tables.
 
-<a href="mailto:YOUR-EMAIL-ID">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+🔗 **Project Repository:** [View Project](https://github.com/YOUR_GITHUB_USERNAME/sql-business-analysis)
 
+---
+
+## 📚 What I Am Learning Now
+
+| Area       | Topics                                                  |
+| ---------- | ------------------------------------------------------- |
+| SQL        | Joins, Subqueries, Window Functions, CTEs               |
+| Python     | Pandas, NumPy, Data Cleaning, EDA                       |
+| Power BI   | DAX, Data Modeling, Advanced Dashboards                 |
+| Excel      | Power Query, Pivot Tables, Lookup Functions             |
+| Statistics | Descriptive Statistics, Probability, Hypothesis Testing |
+
+---
+
+## 📜 Certifications
+
+* Data Analytics Certification — *Add your certificate name here*
+* Power BI Certification — *Add your certificate name here*
+* SQL Certification — *Add your certificate name here*
+
+> Replace these with your actual certification names and add certificate links when available.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-Harishma%20Parveen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR-EMAIL-ID">
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <div align="center">
 
-### ⭐ "Turning data into meaningful business insights."
+### 💬 “Data is valuable only when it helps people make better decisions.”
+
+⭐ Feel free to explore my repositories and connect with me!
 
 </div>
-
