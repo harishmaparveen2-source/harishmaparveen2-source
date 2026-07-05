@@ -2,15 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Harishma+Parveen+%F0%9F%91%8B;Aspiring+Data+Analyst+%7C+Business+Analytics+Enthusiast;Transforming+Data+into+Business+Insights" alt="Typing SVG" />
 
-<p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:harishmaparveen04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=6C63FF&style=flat-square" alt="Profile views" />
 
 </div>
