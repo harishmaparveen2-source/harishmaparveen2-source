@@ -33,7 +33,6 @@ I enjoy working with data to find useful insights and solve business problems.
 * Learning Machine Learning, Deep Learning, and Computer Vision
 * Focused on improving analytical thinking, communication, and problem-solving skills
 
-</td>
 
 <td width="50%" valign="top">
 
