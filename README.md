@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Harishma+Parveen+%F0%9F%91%8B;Aspiring+Data+Analyst+%7C+Business+Analytics+Enthusiast;Transforming+Data+into+Business+Insights" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=6C63FF&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=harishmaparveen&label=Profile%20Views&color=6C63FF&style=flat-square" alt="Profile views" />
 
 </div>
 
