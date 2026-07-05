@@ -132,10 +132,10 @@ I enjoy working with raw datasets, cleaning data, identifying patterns, and crea
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+  <a href="https://www.linkedin.com/in/harishma-parveen">
     <img src="https://img.shields.io/badge/LinkedIn-Harishma%20Parveen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR-EMAIL-ID">
+  <a href="mailto:harishmaparveen04@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
