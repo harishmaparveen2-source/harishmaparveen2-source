@@ -95,6 +95,8 @@ I enjoy working with raw datasets, cleaning data, identifying patterns, and crea
 
 To secure a Data Science or Data Analytics role where I can apply Python, SQL, Machine Learning, and Business Intelligence skills to solve real-world problems while continuously learning and growing.
 
+---
+
 ## 📚 What I Am Learning Now
 
 | Area       | Topics                                                  |
