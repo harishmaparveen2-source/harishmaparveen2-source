@@ -93,7 +93,7 @@ I enjoy transforming raw data into meaningful insights by building interactive d
 
 ---
 
-### 🤖 Machine Learning Prediction System
+### 🤖 Machine Learning Prediction System | VS Code
 
 **Tools Used:** Python, Machine Learning, Scikit-learn, Pandas, NumPy, Matplotlib
 
@@ -178,10 +178,14 @@ To secure a Data Science or Data Analytics role where I can apply Python, SQL, M
 
 ---
 
+---
+
 <div align="center">
 
-### 💬 “Data is valuable only when it helps people make better decisions.”
+### ⭐ Thanks for visiting my GitHub Profile!
 
-⭐ Feel free to explore my repositories and connect with me!
+💡 *"Turning Data into Insights through Analytics, Machine Learning, and AI."*
+
+If you like my work, don't forget to ⭐ my repositories!
 
 </div>
