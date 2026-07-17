@@ -93,16 +93,18 @@ I enjoy transforming raw data into meaningful insights by building interactive d
 
 ---
 
-### 📈 E-Commerce Sales Analysis | Excel
+### 🤖 Machine Learning Prediction System
 
-**Tools Used:** Microsoft Excel, Pivot Tables, Charts, Data Cleaning
+**Tools Used:** Python, Machine Learning, Scikit-learn, Pandas, NumPy, Matplotlib
 
-* Analyzed e-commerce sales data to identify revenue and profit trends.
-* Created Pivot Tables and interactive reports for category and region analysis.
-* Built dashboards using Excel charts and KPI metrics.
-* Generated business insights to support sales decisions.
+* Collected and preprocessed real-world datasets for machine learning model development.
+* Performed data cleaning, feature selection, and exploratory data analysis (EDA).
+* Built and trained machine learning models using Scikit-learn algorithms.
+* Evaluated model performance using accuracy and other evaluation metrics.
+* Visualized data patterns and model results using Matplotlib.
+* Developed predictive models to support data-driven decision-making.
 
-🔗 **Project Repository:** (https://github.com/harishmaparveen2-source/advanced-excel)
+🔗 **Project Repository:** [Machine Learning Projects](https://github.com/harishmaparveen2-source/ML)
 
 ---
 
