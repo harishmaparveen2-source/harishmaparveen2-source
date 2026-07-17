@@ -103,7 +103,7 @@ I enjoy transforming raw data into meaningful insights by building interactive d
 * Visualized data patterns and model results using Matplotlib.
 * Developed predictive models to support data-driven decision-making.
 
-🔗 **Project Repository:** [Machine Learning Projects](https://github.com/harishmaparveen2-source/Machine-Learning-Projects)
+🔗 **Project Repository:** (https://github.com/harishmaparveen2-source/Machine-Learning-Projects)
 
 ---
 
