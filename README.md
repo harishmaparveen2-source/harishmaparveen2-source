@@ -111,7 +111,7 @@ I enjoy working with raw datasets, cleaning data, identifying patterns, and crea
 - 🗄️ [MySQL Certification](certificates/mysql.jpg)
 - 📊 [Power BI Certification](certificates/power-bi.jpg)
 - 📈 [Tableau Certification](certificates/tableau.jpg)
-- 📑 [Advanced Excel Certification](certificates/advanced-excel.jpg)
+- 📑 [Advanced Excel Certification](https://github.com/harishmaparveen2-source/harishmaparveen2-source/blob/main/ADVANCED%20EXCEL.png?raw=true)
 
 ---
 
