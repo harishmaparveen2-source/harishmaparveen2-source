@@ -178,8 +178,6 @@ To secure a Data Science or Data Analytics role where I can apply Python, SQL, M
 
 ---
 
----
-
 <div align="center">
 
 ### ⭐ Thanks for visiting my GitHub Profile!
