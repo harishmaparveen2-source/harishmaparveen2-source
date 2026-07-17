@@ -102,14 +102,16 @@ I enjoy working with raw datasets, cleaning data, identifying patterns, and crea
 | Statistics | Descriptive Statistics, Probability, Hypothesis Testing |
 
 ---
-
 ## 📜 Certifications
 
-* Data Analytics Certification — *Add your certificate name here*
-* Power BI Certification — *Add your certificate name here*
-* SQL Certification — *Add your certificate name here*
-
-> Replace these with your actual certification names and add certificate links when available.
+- 🎓 [Data Science Certification](certificates/data-science.jpg)
+- 🤖 [Artificial Intelligence Certification](certificates/artificial-intelligence.jpg)
+- 🧠 [Machine Learning Certification](certificates/machine-learning.jpg)
+- 🔬 [Deep Learning Certification](certificates/deep-learning.jpg)
+- 🗄️ [MySQL Certification](certificates/mysql.jpg)
+- 📊 [Power BI Certification](certificates/power-bi.jpg)
+- 📈 [Tableau Certification](certificates/tableau.jpg)
+- 📑 [Advanced Excel Certification](certificates/advanced-excel.jpg)
 
 ---
 
