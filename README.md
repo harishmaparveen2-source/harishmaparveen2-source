@@ -10,15 +10,15 @@
 
 ## 👩‍💻 About Me
 
-I am a **B.Com Graduate** and an aspiring **Data Analyst** with a strong interest in Business Analytics, Data Visualization, and solving real-world business problems using data.
+I am a **B.Com Graduate** and an **Aspiring Data Scientist** passionate about Data Analytics, Machine Learning, Artificial Intelligence, and Business Intelligence.
 
-I enjoy working with raw datasets, cleaning data, identifying patterns, and creating interactive dashboards that help people make better decisions.
+I enjoy transforming raw data into meaningful insights by building interactive dashboards, analyzing datasets, and developing intelligent machine learning solutions to solve real-world business problems.
 
-* 🎓 **Education:** Bachelor of Commerce (B.Com)
-* 📊 **Career Goal:** Data Analyst / Business Analyst
-* 💡 **Interests:** Data Analysis, Dashboard Development, Business Insights & Reporting
-* 🌱 **Currently Learning:** Advanced SQL, Python for Data Analysis, Power BI, and Statistics
-* 🎯 **Focus:** Building practical, portfolio-ready analytics projects
+- 🎓 **Education:** Bachelor of Commerce (B.Com)
+- 💼 **Career Goal:** Data Scientist / Data Analyst
+- 🤖 **Interests:** Machine Learning, AI, Data Analytics, Computer Vision
+- 🌱 **Currently Learning:** Deep Learning, CNN, OpenCV, Advanced SQL & Statistics
+- 🎯 **Focus:** Building end-to-end Data Science projects
 
 ---
 
