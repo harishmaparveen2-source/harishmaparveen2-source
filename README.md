@@ -117,17 +117,15 @@ I enjoy working with raw datasets, cleaning data, identifying patterns, and crea
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harishmaparveen2-source&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://streak-stats.demolab.com?user=harishmaparveen2-source&theme=tokyonight&hide_border=true" />
 
-<br />
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishmaparveen2-source&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
-
----
 
 ## 🤝 Connect With Me
 
