@@ -107,7 +107,7 @@ I enjoy working with raw datasets, cleaning data, identifying patterns, and crea
 - 🎓 [Data Science Certification](https://github.com/harishmaparveen2-source/harishmaparveen2-source/blob/main/DATA%20SCIENCE.png?raw=true)
 - 🤖 [Artificial Intelligence Certification](https://github.com/harishmaparveen2-source/harishmaparveen2-source/blob/main/AI.png?raw=true)
 - 🧠 [Machine Learning Certification](certificates/machine-learning.jpg)
-- 🔬 [Deep Learning Certification](certificates/deep-learning.jpg)
+- 🔬 [Deep Learning Certification]([certificates/deep-learning.jpg](https://github.com/harishmaparveen2-source/harishmaparveen2-source/blob/main/DEEP%20LEARNING.png?raw=true))
 - 🗄️ [MySQL Certification](certificates/mysql.jpg)
 - 📊 [Power BI Certification](certificates/power-bi.jpg)
 - 📈 [Tableau Certification](certificates/tableau.jpg)
